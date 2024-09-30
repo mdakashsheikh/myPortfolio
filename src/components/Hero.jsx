@@ -15,7 +15,7 @@ const Hero = () => {
     return (
         <div className="border-b border-neutral-900 pb-4 lg:mb-35">
             <div className="flex flex-wrap ">
-                <div className="w-full lg:w-1/2">
+                <div className="w-full mb-10 lg:w-1/2 ">
                     <div className="flex flex-col items-center lg:items-start">
                         <motion.h1
                             variants={container(0)}
@@ -52,7 +52,7 @@ const Hero = () => {
                             variants={container(1.2)}
                             initial="hidden"
                             animate="visible"
-                            className="bg-blue-600 text-white px-8 py-2 rounded-full"
+                            className="bg-blue-500 text-white px-8 py-2 rounded-full"
                         >
 
                             CV
