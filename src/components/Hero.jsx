@@ -43,6 +43,21 @@ const Hero = () => {
                             {HERO_CONTENT}
                         </motion.p>
                     </div>
+
+                    <a 
+                        href="https://drive.google.com/file/d/1VE4b2lmo2JVyAgMyRkwAbp5gu8LMWMFz/view?usp=sharing" 
+                        target="_blank"
+                    >
+                        <motion.button
+                            variants={container(1.2)}
+                            initial="hidden"
+                            animate="visible"
+                            className="bg-blue-600 text-white px-8 py-2 rounded-full"
+                        >
+
+                            CV
+                        </motion.button>
+                    </a>
                 </div>
 
                 <div className="w-full lg:w-1/2 lg:p-8">
