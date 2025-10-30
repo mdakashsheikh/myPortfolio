@@ -45,7 +45,7 @@ const Hero = () => {
                     </div>
 
                     <a 
-                        href="https://drive.google.com/file/d/1VE4b2lmo2JVyAgMyRkwAbp5gu8LMWMFz/view?usp=sharing" 
+                        href="https://drive.google.com/file/d/1gi_XD8qux7FU0YP88acf3oSfKh7To9pi/view?usp=sharing" 
                         target="_blank"
                     >
                         <motion.button

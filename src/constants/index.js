@@ -15,15 +15,15 @@ export const EXPERIENCES = [
   //   description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
   //   technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   // },
-  // {
-  //   year: "2022 - 2023",
-  //   role: "Frontend Developer",
-  //   company: "Adobe",
-  //   description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-  //   technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  // },
   {
-    year: "Mar, 2023 - Present",
+    year: "Aug, 2024 - Sep, 2025",
+    role: "Full Stack Developer",
+    company: "Metademy",
+    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    technologies: ["JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind", "Node.js", "Express.js", "MongoDB", "MySQL"],
+  },
+  {
+    year: "Mar, 2023 - Jul, 2024",
     role: "Full Stack Developer",
     company: "Nitto Digital Services and Analytics Ltd.",
     description: `Developed and maintained web applications using JavaScript, React.js, and Node.js, Express.js, MongoDB, MySQL. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
