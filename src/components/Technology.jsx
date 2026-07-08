@@ -3,7 +3,7 @@ import { RiNextjsFill } from "react-icons/ri";
 import { SiMongodb } from "react-icons/si";
 import { IoLogoNodejs } from "react-icons/io5";
 import { SiExpress, SiTailwindcss, SiMysql } from "react-icons/si";
-import { animate, motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 const iconVarients = (duration) => ({
     initial: { y: -10 },
